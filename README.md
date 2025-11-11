@@ -95,8 +95,8 @@ Entre los principales aprendizajes aplicados se destacan:
 ## 🖼️ Capturas
 
 <p align="center">
-  <img src="https://ruta-a-tu-imagen-1.png" width="400" style="border-radius:10px; margin:5px;"/>
-  <img src="https://ruta-a-tu-imagen-2.png" width="400" style="border-radius:10px; margin:5px;"/>
+  <img src="https://github.com/MiltonCastro93/Jumps-Proyects/blob/main/Captura%20de%20pantalla%202025-11-11%20114328.png" width="400" style="border-radius:10px; margin:5px;"/>
+  <img src="https://github.com/MiltonCastro93/Jumps-Proyects/blob/main/Captura%20de%20pantalla%202025-11-11%20114353.png" width="400" style="border-radius:10px; margin:5px;"/>
 </p>
 
 ---
